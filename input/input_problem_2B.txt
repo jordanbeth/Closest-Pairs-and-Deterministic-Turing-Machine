@@ -1,0 +1,7 @@
+# Uncomment the lines to run them, operands are separated with the character 'b'
+101110b0110
+# 110b001
+# 111110b100111
+# 110001b0001
+# 011101b000110
+# 1001b0110
